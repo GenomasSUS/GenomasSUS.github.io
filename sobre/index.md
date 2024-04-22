@@ -18,3 +18,16 @@ O Genomas SUS foi criado em 2023 pelo Departamento de Ciência e Tecnologia (DCI
 ## Princípio do Genomas SUS
 
 O Genomas SUS parte do princípio de unir profissionais de universidades públicas de todo o Brasil a fim de criar uma estrutura de gerenciamento unificado para projetos que possuem impacto na saúde de precisão, permitindo a produção de novos dados, o estabelecimento de procedimentos operacionais padronizados que visam a redução de custos e aumento de qualidade, acompanhamento da execução de projetos de forma que haja minimização de riscos, cumprimento de metas e maximização de resultados, além de treinar grupos de pesquisa e da saúde na área da genômica.
+
+{% include section.html %}
+
+## Importância do Genomas SUS para o SUS
+
+Diante do sequenciamento dos 21.000 genomas, o Genoma SUS espera identificar alelos raros e comuns associados a diversos fenótipos e doenças, tais como doenças oncológicas, cardiovasculares, neurológicas, infecciosas, autoimunes, endócrino-metabólicas, hematológicas, doenças raras e de aplicação farmacogenômica, assim como estimar a frequência desses alelos na população brasileira. Esse conhecimento permitirá a identificação de variantes genéticas que possam ser alvo de diagnóstico e de tratamento, contribuindo para um melhor cuidado de saúde.
+
+De forma sistemática, a Rede possui duas aplicações principais no SUS: 
+
+i. *executiva*, ao estabelecer grupos de profissionais da área da genômica e laboratórios genômicos de referência padronizados nas diferentes regiões do Brasil
+
+ii. *consultiva*, ao prover informações de variantes genéticas que são alvos de tratamento, de diagnóstico ou de aplicação farmacogenômica e que possam auxiliar na implementação da saúde de precisão no sistema público de saúde. Além de fornecer informações que possam auxiliar nas decisões de políticas públicas ao incluir os dados da Rede no banco de dados genômicos a ser criado pelo Programa Genomas Brasil.
+
