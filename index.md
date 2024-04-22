@@ -1,22 +1,20 @@
 ---
 ---
 
-# RafaellaFerrazDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+#### Genomas SUS propõe sequenciar 21.000 genomas brasileiros das cincos regiões geográficas do país, garantindo representatividade genômica, demográfica e subpopulacional.
 
 {% include section.html %}
 
-## Highlights
+## Destaques
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+O que é o Genomas SUS e em que contexto a Rede foi criada.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="sobre"
+  text="Sobre o Genomas SUS"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="sobre"
   title="Our Research"
   text=text
 %}
