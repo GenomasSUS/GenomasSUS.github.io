@@ -2,7 +2,7 @@
 title: Sobre
 nav:
   order: 1
-  tooltip: Descrição do Genomas SUS
+  tooltip: Sobre o Genomas SUS
 ---
 
 # {% include icon.html icon="fa-solid fa-target" %}Sobre
@@ -15,12 +15,6 @@ O Genomas SUS foi criado em 2023 pelo Departamento de Ciência e Tecnologia (DCI
 
 {% include section.html %}
 
-## O que é o Genomas SUS?
+## Princípio do Genomas SUS
 
-O Genomas SUS é uma rede que visa a caracterização dos aspectos genômicos que impactam o processo saúde-doença na população brasileira. 
-
-{% include section.html %}
-
-## Proposta do Genomas SUS
-
-O Genomas SUS propõe sequenciar 21.000 genomas brasileiros das cincos regiões geográficas do país, garantindo representatividade genômica, demográfica e de ancestralidade das regiões. Assim como compartilhar informações genômicas e fenotípicas com o Programa Genomas Brasil.
+O Genomas SUS parte do princípio de unir profissionais de universidades públicas de todo o Brasil a fim de criar uma estrutura de gerenciamento unificado para projetos que possuem impacto na saúde de precisão, permitindo a produção de novos dados, o estabelecimento de procedimentos operacionais padronizados que visam a redução de custos e aumento de qualidade, acompanhamento da execução de projetos de forma que haja minimização de riscos, cumprimento de metas e maximização de resultados, além de treinar grupos de pesquisa e da saúde na área da genômica.
