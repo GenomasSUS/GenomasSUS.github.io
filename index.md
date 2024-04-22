@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Genomas SUS propõe sequenciar 21.000 genomas brasileiros das cincos regiões geográficas do país, garantindo representatividade genômica, demográfica e subpopulacional.
+#### Genomas SUS propõe sequenciar 21.000 genomas brasileiros das cincos regiões geográficas do Brasil, garantindo representatividade genômica, demográfica e subpopulacional.
 
 {% include section.html %}
 
@@ -9,7 +9,8 @@
 
 {% capture text %}
 
-O que é o Genomas SUS e em que contexto a Rede foi criada.
+O Genomas SUS é uma rede que visa a caracterização dos aspectos genômicos que impactam o processo saúde-doença na população brasileira. 
+
 
 {%
   include button.html
@@ -24,20 +25,20 @@ O que é o Genomas SUS e em que contexto a Rede foi criada.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/build_icon.jpg"
   link="sobre"
-  title="Our Research"
+  title="Genomas SUS"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+O Genomas SUS é um projeto multicêntrico que visa uma estrutura de gerenciamento unificado para projetos que possuem impacto na saúde de precisão.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="instituicoes"
+  text="Conheça os centros âncoras"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -47,33 +48,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/description_icon.jpg"
+  link="institutions"
+  title="Centros Âncoras"
   flip=true
   style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
   text=text
 %}
