@@ -5,7 +5,7 @@ nav:
   tooltip: Sobre o Genomas SUS
 ---
 
-# {% include icon.html icon="fa-solid fa-target" %}Sobre
+# {% include icon.html icon="fa-solid fa-pen" %}Sobre
 
 {% include section.html %}
 
