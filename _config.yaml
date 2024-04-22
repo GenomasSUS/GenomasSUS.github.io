@@ -1,7 +1,6 @@
 # site properties and page defaults
 title: Genomas SUS
-subtitle: 
-description: 
+logo-text: false
 header: images/banner.jpg
 footer: images/banner.jpg
 proofer: false
