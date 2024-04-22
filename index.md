@@ -1,7 +1,7 @@
 ---
 ---
 
-#### Genomas SUS propõe sequenciar 21.000 genomas brasileiros das cincos regiões geográficas do Brasil, garantindo representatividade genômica, demográfica e subpopulacional.
+### <center> Genomas SUS propõe sequenciar 21.000 genomas brasileiros das cincos regiões geográficas do Brasil, garantindo representatividade genômica, demográfica e subpopulacional <center>
 
 {% include section.html %}
 
