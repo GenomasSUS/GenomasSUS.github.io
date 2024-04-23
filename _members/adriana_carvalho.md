@@ -1,6 +1,6 @@
 ---
 name: Adriana Carvalho
-image: images/equipe/adriana.jpg
+image: images/equipe/adriana_carvalho.jpg
 role: pi
 description: Investigador Principal<br>Rio de Janeiro (RJ)
 links:
