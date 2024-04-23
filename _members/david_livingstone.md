@@ -1,6 +1,6 @@
 ---
 name: David Livingstone
-image: images/equipe/david.jpeg
+image: images/equipe/david_livingstone.jpg
 role: pi
 description: Investigador Principal<br>Guarapuava (PR)
 
