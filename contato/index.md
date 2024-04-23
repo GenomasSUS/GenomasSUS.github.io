@@ -15,8 +15,8 @@ nav:
   include figure.html
   image="images/labs/leandro.png"
   caption="Leandro Colli<br>Ribeirão Preto (SP)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
@@ -32,8 +32,8 @@ nav:
   include figure.html
   image="images/labs/michel.png"
   caption="Michel Naslavsky<br>São Paulo (SP)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
@@ -49,8 +49,8 @@ nav:
   include figure.html
   image="images/labs/adriana.png"
   caption="Adriana Carvalho<br>Rio de Janeiro (RJ)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
@@ -68,8 +68,8 @@ nav:
   include figure.html
   image="images/labs/fabio.png"
   caption="Fabio Passeti<br>Curitiba (PR)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
@@ -85,8 +85,8 @@ nav:
   include figure.html
   image="images/labs/david.png"
   caption="David Livingstone<br>Guarapuava (PR)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
@@ -102,8 +102,8 @@ nav:
   include figure.html
   image="images/labs/andrea.png"
   caption="Ândrea Ribeiro-dos-Santos<br>Belém (PA)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
@@ -121,8 +121,8 @@ nav:
   include figure.html
   image="images/labs/eduardo.jpg"
   caption="Eduardo Tarazona<br>Belo Horizonte (MG)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
@@ -138,8 +138,8 @@ nav:
   include figure.html
   image="images/labs/norma.png"
   caption="Norma Lucena<br>Recife (PE)"
-  width="400"
-  height="200"
+  width=400
+  height=200
 %}
 {%
   include button.html
