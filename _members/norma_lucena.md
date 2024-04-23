@@ -5,7 +5,7 @@ role: pi
 description: Investigador Principal<br>Recife (PE)
 
 links:
-  lattes: 7341938714365067
+  lattes: "7341938714365067"
   orcid: 0000-0002-6140-1794
 ---
 
