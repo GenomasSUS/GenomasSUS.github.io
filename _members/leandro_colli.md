@@ -2,15 +2,8 @@
 name: Leandro Colli
 image: images/equipe/leandro.jpg
 role: pi
-description: Investigador Principal
-aliases:
-  - COLLI, L. M.
-  - Colli, L.
-  - Colli, Leandro Machado
-  - Colli, Leandro M.
-  - COLLI, LEANDRO M
-  - MACHADO COLLI, LEANDRO
-  - COLLI, LEANDRO
+description: Investigador Principal<br>Ribeirão Preto (SP)
+
 links:
   lattes: 1964519821323305
   orcid: 0000-0001-6928-1195
