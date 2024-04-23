@@ -4,7 +4,7 @@ image: images/equipe/michel_naslavsky.jpg
 role: pi
 description: Investigador Principal<br>São Paulo (SP)
 links:
-  lattes: 5084104783599564
+  lattes: "5084104783599564"
   orcid: 0000-0002-9068-1713
 ---
 
