@@ -5,7 +5,7 @@ role: pi
 description: Investigador Principal<br>Guarapuava (PR)
 
 links:
-  lattes: 8867251982236137
+  lattes: "8867251982236137"
   orcid: 0000-0002-5446-296X
 ---
 
