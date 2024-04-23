@@ -1,6 +1,6 @@
 ---
 name: Eduardo Tarazona
-image: images/equipe/eduardo.jpg
+image: images/equipe/eduardo_tarazona.jpg
 role: pi
 description: Investigador Principal<br>Belo Horizonte (MG)
 
