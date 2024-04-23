@@ -5,7 +5,7 @@ role: pi
 description: Investigador Principal<br>Belo Horizonte (MG)
 
 links:
-  lattes: 6203097295718656
+  lattes: "6203097295718656"
   orcid: 0000-0003-3508-3160
 ---
 
