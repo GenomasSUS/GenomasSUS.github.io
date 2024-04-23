@@ -5,7 +5,7 @@ role: pi
 description: Investigador Principal<br>Ribeirão Preto (SP)
 
 links:
-  lattes: 1964519821323305
+  lattes: "1964519821323305"
   orcid: 0000-0001-6928-1195
 ---
 
