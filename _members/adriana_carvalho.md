@@ -4,7 +4,7 @@ image: images/equipe/adriana_carvalho.jpg
 role: pi
 description: Investigador Principal<br>Rio de Janeiro (RJ)
 links:
-  lattes: 6975079756933662
+  lattes: "6975079756933662"
   orcid: 0000-0002-7830-7868
 ---
 
