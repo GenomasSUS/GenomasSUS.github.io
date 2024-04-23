@@ -1,6 +1,6 @@
 ---
 name: Ândrea Ribeiro-dos-Santos
-image: images/equipe/andrea.jpeg
+image: images/equipe/andrea_kely.jpg
 role: pi
 description: Investigador Principal<br>Belém (PA)
 
