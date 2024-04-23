@@ -13,97 +13,8 @@ nav:
 
 {%
   include figure.html
-  image="images/labs/leandro.png"
-  caption="Leandro Colli<br>Ribeirão Preto (SP)"
-  width=400
-  height=200
-%}
-{%
-  include button.html
-  type="phone"
-  text="(16) 2101-9366"
-  link="+55 16 2101-9366"
-%}
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/labs/michel.png"
-  caption="Michel Naslavsky<br>São Paulo (SP)"
-  width=400
-  height=200
-%}
-{%
-  include button.html
-  type="phone"
-  text="(11) 3091-7966"
-  link="+55 11 3091-7966"
-%}
-{% endcapture %}
-
-{% capture col3 %}
-
-{%
-  include figure.html
-  image="images/labs/adriana.png"
-  caption="Adriana Carvalho<br>Rio de Janeiro (RJ)"
-  width=400
-  height=200
-%}
-{%
-  include button.html
-  type="phone"
-  text="(21) 98202-4477"
-  link="+55 21 98202-4477"
-%}
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/labs/fabio.png"
-  caption="Fabio Passeti<br>Curitiba (PR)"
-  width=400
-  height=200
-%}
-{%
-  include button.html
-  type="phone"
-  text="(41) 99776-4659"
-  link="+55 41 99776-4659"
-%}
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/labs/david.png"
-  caption="David Livingstone<br>Guarapuava (PR)"
-  width=400
-  height=200
-%}
-{%
-  include button.html
-  type="phone"
-  text="(42) 3303-2610"
-  link="+55 42 3303-2610"
-%}
-{% endcapture %}
-
-{% capture col3 %}
-
-{%
-  include figure.html
-  image="images/labs/andrea.png"
+  image="images/labs/andrea_kely_lab.png"
   caption="Ândrea Ribeiro-dos-Santos<br>Belém (PA)"
-  width=400
-  height=200
 %}
 {%
   include button.html
@@ -113,16 +24,44 @@ nav:
 %}
 {% endcapture %}
 
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/labs/adriana_carvalho_lab.png"
+  caption="Adriana Carvalho<br>Rio de Janeiro (RJ)"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(21) 98202-4477"
+  link="+55 21 98202-4477"
+%}
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/labs/david_linvgstone_lab.png"
+  caption="David Livingstone<br>Guarapuava (PR)"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(42) 3303-2610"
+  link="+55 42 3303-2610"
+%}
+{% endcapture %}
+
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% capture col1 %}
 
 {%
   include figure.html
-  image="images/labs/eduardo.jpg"
+  image="images/labs/eduardo_tarazona_lab.png"
   caption="Eduardo Tarazona<br>Belo Horizonte (MG)"
-  width=400
-  height=200
 %}
 {%
   include button.html
@@ -136,10 +75,56 @@ nav:
 
 {%
   include figure.html
-  image="images/labs/norma.png"
+  image="images/labs/fabio_passetti_lab.png"
+  caption="Fabio Passeti<br>Curitiba (PR)"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(41) 99776-4659"
+  link="+55 41 99776-4659"
+%}
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/labs/leandro_colli_lab.png"
+  caption="Leandro Colli<br>Ribeirão Preto (SP)"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(16) 2101-9366"
+  link="+55 16 2101-9366"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/labs/michel_naslavsky_lab.png"
+  caption="Michel Naslavsky<br>São Paulo (SP)"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(11) 3091-7966"
+  link="+55 11 3091-7966"
+%}
+{% endcapture %}
+
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/labs/norma_lucena_lab.png"
   caption="Norma Lucena<br>Recife (PE)"
-  width=400
-  height=200
 %}
 {%
   include button.html
