@@ -1,6 +1,6 @@
 ---
 name: Michel Naslavsky
-image: images/equipe/michel.jpg
+image: images/equipe/michel_naslavsky.jpg
 role: pi
 description: Investigador Principal<br>São Paulo (SP)
 links:
