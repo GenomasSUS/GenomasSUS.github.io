@@ -1,6 +1,6 @@
 ---
 name: Fabio Passetti
-image: images/equipe/fabio.jpeg
+image: images/equipe/fabio_passetti.jpg
 role: pi
 description: Investigador Principal<br>Curitiba (PR)
 links:
