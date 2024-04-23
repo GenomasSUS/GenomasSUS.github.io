@@ -1,6 +1,6 @@
 ---
 name: Leandro Colli
-image: images/equipe/leandro.jpg
+image: images/equipe/leandro_colli.jpg
 role: pi
 description: Investigador Principal<br>Ribeirão Preto (SP)
 
