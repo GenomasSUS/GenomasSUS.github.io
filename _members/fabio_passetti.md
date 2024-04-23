@@ -4,7 +4,7 @@ image: images/equipe/fabio_passetti.jpg
 role: pi
 description: Investigador Principal<br>Curitiba (PR)
 links:
-  lattes: 4216542239143600
+  lattes: "4216542239143600"
   orcid: 0000-0001-5672-7848
 ---
 
