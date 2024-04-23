@@ -13,21 +13,6 @@ nav:
 
 {%
   include figure.html
-  image="images/labs/andrea_kely_lab.png"
-  caption="Ândrea Ribeiro-dos-Santos<br>Belém (PA)"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(91) 3201-7843"
-  link="+55 91 3201-7843"
-%}
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
   image="images/labs/adriana_carvalho_lab.png"
   caption="Adriana Carvalho<br>Rio de Janeiro (RJ)"
 %}
@@ -36,6 +21,21 @@ nav:
   type="phone"
   text="(21) 98202-4477"
   link="+55 21 98202-4477"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/labs/andrea_kely_lab.png"
+  caption="Ândrea Ribeiro-dos-Santos<br>Belém (PA)"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(91) 3201-7843"
+  link="+55 91 3201-7843"
 %}
 {% endcapture %}
 
