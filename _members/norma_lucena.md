@@ -1,6 +1,6 @@
 ---
 name: Norma Lucena
-image: images/equipe/norma.png
+image: images/equipe/norma_lucena.png
 role: pi
 description: Investigador Principal<br>Recife (PE)
 
