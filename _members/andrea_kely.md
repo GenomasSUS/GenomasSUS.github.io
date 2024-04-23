@@ -5,7 +5,7 @@ role: pi
 description: Investigador Principal<br>Belém (PA)
 
 links:
-  lattes: 3899534338451625
+  lattes: "3899534338451625"
   orcid: 0000-0001-7001-1483
 ---
 
