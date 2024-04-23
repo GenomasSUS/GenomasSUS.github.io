@@ -9,7 +9,7 @@
 
 {% capture text %}
 
-O Genomas SUS é uma rede que visa a caracterização dos aspectos genômicos que impactam o processo saúde-doença na população brasileira. 
+O Genomas SUS é uma rede acadêmica que visa a caracterização dos aspectos genômicos que impactam o processo saúde-doença na população brasileira. 
 
 
 {%
@@ -38,7 +38,7 @@ O Genomas SUS é um projeto multicêntrico que visa uma estrutura de gerenciamen
 {%
   include button.html
   link="instituicoes"
-  text="Conheça os centros âncoras"
+  text="Conheça os Centros Âncoras"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
