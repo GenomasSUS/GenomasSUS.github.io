@@ -25,7 +25,7 @@ O Genomas SUS é uma rede acadêmica que visa a caracterização dos aspectos ge
 
 {%
   include feature.html
-  image="images/description_icon.png"
+  image="images/gene_health.jpg"
   link="sobre"
   title="Genomas SUS"
   text=text
