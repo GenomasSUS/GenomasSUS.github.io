@@ -1,1 +1,1 @@
-Sitemap: https://rafaellaferraz.github.io/GenomasSUS/sitemap.xml
+Sitemap: https://genomassus.github.io/sitemap.xml
