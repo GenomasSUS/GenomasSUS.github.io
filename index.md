@@ -25,7 +25,7 @@ O Genomas SUS é uma rede que visa a caracterização dos aspectos genômicos qu
 
 {%
   include feature.html
-  image="images/build_icon.png"
+  image="images/description_icon.png"
   link="sobre"
   title="Genomas SUS"
   text=text
@@ -48,7 +48,7 @@ O Genomas SUS é um projeto multicêntrico que visa uma estrutura de gerenciamen
 
 {%
   include feature.html
-  image="images/description_icon.png"
+  image="images/build_icon.png"
   link="institutions"
   title="Centros Âncoras"
   flip=true
