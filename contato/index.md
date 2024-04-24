@@ -4,7 +4,7 @@ nav:
   order: 4
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}**Contato dos Centros Âncoras**
+# {% include icon.html icon="fa-regular fa-envelope" %}
 
 
 {% include section.html %}
