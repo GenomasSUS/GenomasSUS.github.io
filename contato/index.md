@@ -4,12 +4,12 @@ nav:
   order: 4
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}
+# {% include icon.html icon="fa-regular fa-envelope" %}**Contato GenomasSUS**
 
 
 {% include section.html %}
 
-{% include figure.html image="images/share.jpg" width="30%" %}
+{% include figure.html image="images/logo_transparent_curta.png" width="40%" %}
 
 {%
   include button.html
