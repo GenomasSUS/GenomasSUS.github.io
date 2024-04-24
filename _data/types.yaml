@@ -125,12 +125,6 @@ lattes:
   text: Lattes
   tooltip: Lattes
   link: http://lattes.cnpq.br/$VALUE
-
-email:
-  icon: fa-brands fa-envelope
-  text: email
-  tooltip: email
-  link: $VALUE
   
 # alerts
 
