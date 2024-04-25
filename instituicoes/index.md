@@ -5,7 +5,7 @@ nav:
   tooltip: Instituições participantes
 ---
 
-# {% include icon.html icon="fa-solid fa-institution" %}**Centros Âncoras**
+# {% include icon.html icon="fa-solid fa-institution" %}**CENTROS ÂNCORAS**
 
 A rede acadêmica Genomas SUS é constituída por pesquisadores e instituições públicas de diversos estados brasileiros organizados em 8 Centros Âncoras (Figura 1) e demais Centros Colaboradores (Alagoas, Amapá, Amazonas, Bahia, Ceará, Maranhão, Minas Gerais, Pará, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Roraima, São Paulo e Tocantins).
 
@@ -25,11 +25,11 @@ A Rede conta com pelo menos 15 coortes inseridas nos eixos temáticos de relevâ
 9. **EPIGEN II** (Epidemiologia Genética de Coortes Brasileiras II)
 10. **SABE** (Saúde, Bem-Estar e Envelhecimento)
 11. **CASAIS** (Piloto Programa Nacional de Triagem de Casais)
-12. **RENOMICA 2** (Rede nacional de genômica cardiovascular 2)
+12. **RENOMICA DAC** (Rede Nacional de Genômica Cardiovascular - Doença Arterial Coronariana)
 13. **Genomas Paraná**
 14. **MedEpiGen**
-15. **Genoma Fiocruz**
+15. **Genomas Fiocruz**
 
-## <center> Instituições participantes <center>
+## <center> INSTITUIÇÕES PARTICIPANTES <center>
 
 {% include figure.html image="images/instituicoes.jpg" width="80%" %}
