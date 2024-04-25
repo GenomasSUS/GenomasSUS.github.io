@@ -2,6 +2,7 @@
 title: Contato
 nav:
   order: 4
+  tooltip: Contato
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}**Contato**
