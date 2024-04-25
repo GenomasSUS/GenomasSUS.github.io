@@ -51,7 +51,7 @@ home-page:
 email:
   icon: fa-solid fa-envelope
   text: Email
-  tooltip: "Email: $VALUE or link"
+  tooltip: Email
   link: mailto:$VALUE
 
 phone:
