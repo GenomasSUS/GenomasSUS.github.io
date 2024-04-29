@@ -3,7 +3,7 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 100px;
+  gap: 50px;
   padding: 20px;
   box-shadow: var(--shadow);
   position: sticky !important;
@@ -31,7 +31,7 @@ header a {
 }
 
 .logo > * {
-  height: 200%;
+  height: 150%;
 }
 
 .title-text {
