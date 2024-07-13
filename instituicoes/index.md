@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-institution" %}**CENTROS ÂNCORAS**
 
-O Genomas SUS é constituído por pesquisadores e instituições públicas de diversos estados brasileiros organizados em 8 Centros Âncoras (Figura 1) e demais Centros Colaboradores (Alagoas, Amapá, Amazonas, Bahia, Ceará, Maranhão, Minas Gerais, Pará, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Roraima, São Paulo e Tocantins).
+O Genomas SUS é constituído por pesquisadores e instituições públicas de diversos estados brasileiros organizados em 8 Centros Âncoras (Figura 1) e demais Centros Colaboradores (Alagoas, Amapá, Amazonas, Bahia, Ceará, Maranhão, Minas Gerais, Piauí, Rio Grande do Norte, Rio Grande do Sul, Roraima e Tocantins).
 
 {% include figure.html image="images/map_centros.png" width="80%" %}
 
